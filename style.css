@@ -35,3 +35,41 @@ nav a{
 nav a:hover{
     color: #7C005A;
 }
+
+.about{
+    width: 100vw;
+    height: 40vh;
+    margin-top: 50px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.aboutPic{
+    margin-right: 50px;
+}
+
+.avatar{
+    width: 18vw;
+    min-width: 150px;
+}
+
+.icons{
+    width: 128px;
+}
+
+.stack{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.tech{
+    width: 100vw;
+
+
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
